@@ -1,3 +1,3 @@
-#ىثءعس
+#NEXUS
 Dots Connected , English Mastered
-Android app for learning English by reading and watching
+Android app for learning English by reading and watchi
